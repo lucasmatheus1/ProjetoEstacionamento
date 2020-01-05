@@ -1,9 +1,9 @@
 ## Monitoramento de vagas em Estacionamento
 > Automação em estacionamento
 
-![](imagens/gifREADME.gif)
+![](media/parking.gif)
 
-Projeto desenvolvido para a disciplina de Sistemas Digitais 1 no primeiro período do curso de Engenharia de Computação.
+Projeto desenvolvido para a disciplina de Sistemas Digitais 1, no primeiro período, do curso de Engenharia de Computação.
 
 ### Ideia
 
@@ -22,4 +22,4 @@ No Arduino foram utilizadas as bibliotecas [Servo.h](https://www.arduino.cc/en/r
 
 Utilizar outros sensores e atuadores para testes e possível aplicação no futuro.
 
-###### Créditos: Gif from [pinterest.com](https://pinterest.com/)
+###### Créditos: Gif from [giphy.com](https://giphy.com/)
